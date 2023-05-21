@@ -1,0 +1,12 @@
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\bin\Debug\net6.0\NETTEST.Model.deps.json
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\bin\Debug\net6.0\NETTEST.Model.dll
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\bin\Debug\net6.0\NETTEST.Model.pdb
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\obj\Debug\net6.0\NETTEST.Model.csproj.AssemblyReference.cache
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\obj\Debug\net6.0\NETTEST.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\obj\Debug\net6.0\NETTEST.Model.AssemblyInfoInputs.cache
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\obj\Debug\net6.0\NETTEST.Model.AssemblyInfo.cs
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\obj\Debug\net6.0\NETTEST.Model.csproj.CoreCompileInputs.cache
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\obj\Debug\net6.0\NETTEST.Model.dll
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\obj\Debug\net6.0\refint\NETTEST.Model.dll
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\obj\Debug\net6.0\NETTEST.Model.pdb
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Model\obj\Debug\net6.0\ref\NETTEST.Model.dll

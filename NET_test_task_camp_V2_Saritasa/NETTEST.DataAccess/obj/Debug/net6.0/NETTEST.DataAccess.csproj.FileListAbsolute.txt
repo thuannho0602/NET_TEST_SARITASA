@@ -1,0 +1,17 @@
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\bin\Debug\net6.0\NETTEST.DataAccess.deps.json
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\bin\Debug\net6.0\NETTEST.DataAccess.dll
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\bin\Debug\net6.0\NETTEST.DataAccess.pdb
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\bin\Debug\net6.0\NETTEST.Entity.dll
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\bin\Debug\net6.0\NETTEST.Entity.pdb
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\obj\Debug\net6.0\NETTEST.DataAccess.csproj.AssemblyReference.cache
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\obj\Debug\net6.0\NETTEST.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\obj\Debug\net6.0\NETTEST.DataAccess.AssemblyInfoInputs.cache
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\obj\Debug\net6.0\NETTEST.DataAccess.AssemblyInfo.cs
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\obj\Debug\net6.0\NETTEST.DataAccess.csproj.CoreCompileInputs.cache
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\obj\Debug\net6.0\NETTEST.DataAccess.csproj.CopyComplete
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\obj\Debug\net6.0\NETTEST.DataAccess.dll
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\obj\Debug\net6.0\refint\NETTEST.DataAccess.dll
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\obj\Debug\net6.0\NETTEST.DataAccess.pdb
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\obj\Debug\net6.0\ref\NETTEST.DataAccess.dll
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\bin\Debug\net6.0\NETTEST.DataAccess.runtimeconfig.json
+D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.DataAccess\obj\Debug\net6.0\NETTEST.DataAccess.genruntimeconfig.cache
