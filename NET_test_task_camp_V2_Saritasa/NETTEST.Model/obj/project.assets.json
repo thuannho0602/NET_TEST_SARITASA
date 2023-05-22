@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj",
+      "projectUniqueName": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj",
       "projectName": "NETTEST.Model",
-      "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj",
+      "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj",
       "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-      "outputPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\obj\\",
+      "outputPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

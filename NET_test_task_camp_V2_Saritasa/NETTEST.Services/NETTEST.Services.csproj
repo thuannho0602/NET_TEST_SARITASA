@@ -9,6 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\NETTEST.DataAccess\NETTEST.DataAccess.csproj" />
     <ProjectReference Include="..\NETTEST.Model\NETTEST.Model.csproj" />
+    
   </ItemGroup>
 
 </Project>

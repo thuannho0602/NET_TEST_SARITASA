@@ -13,14 +13,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
              options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("NET_test_task_camp_V2_Saritasa")));
-//builder.Services.RegisterAssemblyPublicNonGenericClasses(Assembly.Load("NETTEST.Repository"))
-//               .Where(c => c.Name.EndsWith("Repository"))
-//               .AsPublicImplementedInterfaces();
-//builder.Services.RegisterAssemblyPublicNonGenericClasses(Assembly.Load("NETTEST.Services"))
-//    .Where(c => c.Name.EndsWith("Service"))
-//    .AsPublicImplementedInterfaces();
+
 
 
 builder.Services.AddIdentity<User, IdentityRole<Guid>>()
@@ -38,6 +34,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
+// Add Services
 builder.Services.AddScoped<IUserServices, UserServices>();
 builder.Services.ConfigureJwt(builder.Configuration);
 

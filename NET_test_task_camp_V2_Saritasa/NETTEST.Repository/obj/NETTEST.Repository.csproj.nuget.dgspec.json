@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj": {}
+    "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj": {}
   },
   "projects": {
-    "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj": {
+    "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj",
+        "projectUniqueName": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj",
         "projectName": "NETTEST.DataAccess",
-        "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj",
+        "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj",
         "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\obj\\",
+        "outputPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj": {
-                "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj"
+              "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj": {
+                "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj": {
+    "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj",
+        "projectUniqueName": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj",
         "projectName": "NETTEST.Entity",
-        "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj",
+        "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj",
         "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\obj\\",
+        "outputPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -156,14 +156,14 @@
         }
       }
     },
-    "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\NETTEST.Lib.csproj": {
+    "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\NETTEST.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\NETTEST.Lib.csproj",
+        "projectUniqueName": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\NETTEST.Lib.csproj",
         "projectName": "NETTEST.Lib",
-        "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\NETTEST.Lib.csproj",
+        "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\NETTEST.Lib.csproj",
         "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\obj\\",
+        "outputPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -234,14 +234,14 @@
         }
       }
     },
-    "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj": {
+    "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj",
+        "projectUniqueName": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj",
         "projectName": "NETTEST.Model",
-        "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj",
+        "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj",
         "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\obj\\",
+        "outputPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -294,14 +294,14 @@
         }
       }
     },
-    "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj": {
+    "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj",
+        "projectUniqueName": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj",
         "projectName": "NETTEST.Repository",
-        "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj",
+        "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj",
         "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\obj\\",
+        "outputPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -323,14 +323,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj": {
-                "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj"
+              "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj": {
+                "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj"
               },
-              "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj": {
-                "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj"
+              "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj": {
+                "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Entity\\NETTEST.Entity.csproj"
               },
-              "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa.csproj": {
-                "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa.csproj"
+              "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa.csproj": {
+                "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa.csproj"
               }
             }
           }
@@ -370,14 +370,14 @@
         }
       }
     },
-    "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj": {
+    "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj",
+        "projectUniqueName": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj",
         "projectName": "NETTEST.Services",
-        "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj",
+        "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj",
         "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\obj\\",
+        "outputPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -399,11 +399,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj": {
-                "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj"
+              "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj": {
+                "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj"
               },
-              "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj": {
-                "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj"
+              "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj": {
+                "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj"
               }
             }
           }
@@ -437,14 +437,14 @@
         }
       }
     },
-    "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa.csproj": {
+    "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa.csproj",
+        "projectUniqueName": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa.csproj",
         "projectName": "NET_test_task_camp_V2_Saritasa",
-        "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa.csproj",
+        "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa.csproj",
         "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\obj\\",
+        "outputPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NET_test_task_camp_V2_Saritasa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -466,17 +466,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj": {
-                "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj"
+              "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj": {
+                "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj"
               },
-              "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\NETTEST.Lib.csproj": {
-                "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\NETTEST.Lib.csproj"
+              "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\NETTEST.Lib.csproj": {
+                "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Lib\\NETTEST.Lib.csproj"
               },
-              "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj": {
-                "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj"
+              "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj": {
+                "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj"
               },
-              "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj": {
-                "projectPath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj"
+              "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj": {
+                "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj"
               }
             }
           }

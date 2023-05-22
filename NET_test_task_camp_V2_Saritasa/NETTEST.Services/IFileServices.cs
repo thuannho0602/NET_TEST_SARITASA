@@ -9,10 +9,11 @@ namespace NETTEST.Services
 {
     public interface IFileServices
     {
+        
         Task<List<FileGetResponse>> GetAll();
-        Task<List<FileGetResponse>> GetById(int id);
-        Task<List<FileCreateResponse>> CreateFile(FileCreateRequest fileCreateRequest);
-        Task<List<FileUpdateResponse>> UpdateFile(FileUpdateRequest fileUpdateRequest);
+        Task<FileGetResponse> GetById(int id);
+        Task<FileCreateResponse> CreateFile(FileCreateRequest fileCreateRequest);
+        Task<FileUpdateResponse> UpdateFile(FileUpdateRequest fileUpdateRequest);
         Task <bool>Delete(int id);
     }
 }

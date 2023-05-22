@@ -10,3 +10,15 @@ D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\NETTEST.Lib.
 D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\refint\NETTEST.Lib.dll
 D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\NETTEST.Lib.pdb
 D:\Test\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\ref\NETTEST.Lib.dll
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\bin\Debug\net6.0\NETTEST.Lib.deps.json
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\bin\Debug\net6.0\NETTEST.Lib.dll
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\bin\Debug\net6.0\NETTEST.Lib.pdb
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\NETTEST.Lib.csproj.AssemblyReference.cache
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\NETTEST.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\NETTEST.Lib.AssemblyInfoInputs.cache
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\NETTEST.Lib.AssemblyInfo.cs
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\NETTEST.Lib.csproj.CoreCompileInputs.cache
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\NETTEST.Lib.dll
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\refint\NETTEST.Lib.dll
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\NETTEST.Lib.pdb
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Lib\obj\Debug\net6.0\ref\NETTEST.Lib.dll

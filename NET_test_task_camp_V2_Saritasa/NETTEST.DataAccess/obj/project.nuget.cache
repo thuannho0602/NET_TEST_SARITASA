@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ljwthHeBOszM+wwXwhbnjMVjFxplONQA/LbsZ95FVDP0dN8ahBccVJa7/7Y0Q958Rx9xEmhNe9bjb34g3NX+zA==",
+  "dgSpecHash": "xbbQHoekw/hCGjXirGIflU0xAQI1SODuhHVe0Nulj/SoO6xcYsp0F7KwIgWnfnnI++4TmvzGHsBChMFdjT5hsg==",
   "success": true,
-  "projectFilePath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj",
+  "projectFilePath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.DataAccess\\NETTEST.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AD\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\AD\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512",

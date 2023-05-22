@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cKyAuX2NDWskHMF6IcIo3yGPter12nGOzJ9ruDHk6uufKNpm90zfvZufkqfMA+Q8bqMQUt120XCBnQbDBoW30g==",
+  "dgSpecHash": "BJ78ZFzC/SQbcMaT0HSXYm9DAFHJBGeWFBFfRuMSwagx2z5HJUxE7zWE9ks2A/qlkhI7HiR8i1EpdfQNRCOYHQ==",
   "success": true,
-  "projectFilePath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj",
+  "projectFilePath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AD\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512",
     "C:\\Users\\AD\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

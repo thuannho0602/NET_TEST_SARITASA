@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W4N2TKcAsEX1NEuv8yCH4fRygcCExBnFNHPiiF/2ALBpfHobcU8CU42LXKHalImZix4/bbCdMnkeo1dGxqeYmQ==",
+  "dgSpecHash": "DsZP9h6uTsM8uZ+iaKNkjbAotAdY/75cyT0NPD0Vx40pR8BgexF+L5DrCV0WGGR8gM3TCK8QYmo0SuQY9PxdBA==",
   "success": true,
-  "projectFilePath": "D:\\Test\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj",
+  "projectFilePath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Services\\NETTEST.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AD\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512",
     "C:\\Users\\AD\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",

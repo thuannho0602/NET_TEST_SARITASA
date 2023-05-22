@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace NETTEST.Repository.Implementations
 {
-    public class FileRepository :RepositoryBase<Files,ApplicationDbContext>,IFileRepository
+    public class FileRepository : RepositoryBase<Files, ApplicationDbContext>, IFileRepository
     {
-        public  FileRepository(ApplicationDbContext context) : base(context)
+        public FileRepository(ApplicationDbContext context) : base(context)
         {
 
         }
