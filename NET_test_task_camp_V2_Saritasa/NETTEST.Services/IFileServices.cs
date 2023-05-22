@@ -13,7 +13,7 @@ namespace NETTEST.Services
         Task<List<FileGetResponse>> GetAll();
         Task<FileGetResponse> GetById(int id);
         Task<FileCreateResponse> CreateFile(FileCreateRequest fileCreateRequest);
-        Task<FileUpdateResponse> UpdateFile(FileUpdateRequest fileUpdateRequest);
+        Task<FileUpdateResponse> UpdateFile(int Id,FileUpdateRequest fileUpdateRequest);
         Task <bool>Delete(int id);
     }
 }

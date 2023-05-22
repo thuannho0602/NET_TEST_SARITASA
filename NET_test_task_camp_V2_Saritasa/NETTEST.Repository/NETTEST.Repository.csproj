@@ -13,7 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\NETTEST.DataAccess\NETTEST.DataAccess.csproj" />
     <ProjectReference Include="..\NETTEST.Entity\NETTEST.Entity.csproj" />
-    <ProjectReference Include="..\NET_test_task_camp_V2_Saritasa\NET_test_task_camp_V2_Saritasa.csproj" />
+    
   </ItemGroup>
 
 </Project>

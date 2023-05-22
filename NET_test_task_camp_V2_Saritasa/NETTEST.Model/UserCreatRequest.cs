@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace NETTEST.Model
 {
+    //Take data UserCreatRequest
     public class UserCreatRequest
     {
         public string FirstName { get; set; }

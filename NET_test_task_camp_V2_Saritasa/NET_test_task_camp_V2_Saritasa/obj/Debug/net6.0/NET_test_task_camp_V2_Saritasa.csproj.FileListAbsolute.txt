@@ -150,3 +150,5 @@ D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NET_test_task_camp_V2_Sarita
 D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NET_test_task_camp_V2_Saritasa\obj\Debug\net6.0\NET_test_task_camp_V2_Saritasa.pdb
 D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NET_test_task_camp_V2_Saritasa\obj\Debug\net6.0\NET_test_task_camp_V2_Saritasa.genruntimeconfig.cache
 D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NET_test_task_camp_V2_Saritasa\obj\Debug\net6.0\ref\NET_test_task_camp_V2_Saritasa.dll
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NET_test_task_camp_V2_Saritasa\bin\Debug\net6.0\NETTEST.Repository.dll
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NET_test_task_camp_V2_Saritasa\bin\Debug\net6.0\NETTEST.Repository.pdb

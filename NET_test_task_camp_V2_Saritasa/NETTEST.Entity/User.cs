@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace NETTEST.Entity
 {
+    // Create Table User
     [Table("User")]
     public class User:IdentityUser<Guid>
     {

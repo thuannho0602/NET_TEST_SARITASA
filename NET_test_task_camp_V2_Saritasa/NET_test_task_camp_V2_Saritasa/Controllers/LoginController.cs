@@ -27,6 +27,7 @@ namespace NET_test_task_camp_V2_Saritasa.Controllers
             this.configuration = configuration;
             this._roleManager = roleManager;
         }
+        // create User
         [HttpPost("CreateUser")]
         public async Task<IActionResult> CreateUser (UserCreatRequest newUserDTO)
         {
@@ -73,6 +74,8 @@ namespace NET_test_task_camp_V2_Saritasa.Controllers
             }
             return BadRequest(new { MsgCode = "403", Message = "Create fail" });
         }
+         
+        // create Login
         [HttpPost("login")]
         public async Task<IActionResult>Login(Login model)
         {

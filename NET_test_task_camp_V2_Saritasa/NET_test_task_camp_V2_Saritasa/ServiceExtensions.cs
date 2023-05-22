@@ -5,6 +5,7 @@ using System.Text;
 
 namespace NET_test_task_camp_V2_Saritasa
 {
+    // congigure JTW
     public static class ServiceExtensions
     {
         public static void ConfigureJwt(this IServiceCollection services, IConfiguration configuration)

@@ -1077,10 +1077,21 @@
           "NETTEST.Model.dll": {}
         }
       },
+      "NETTEST.Repository/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "NETTEST.DataAccess": "1.0.0",
+          "NETTEST.Entity": "1.0.0"
+        },
+        "runtime": {
+          "NETTEST.Repository.dll": {}
+        }
+      },
       "NETTEST.Services/1.0.0": {
         "dependencies": {
           "NETTEST.DataAccess": "1.0.0",
-          "NETTEST.Model": "1.0.0"
+          "NETTEST.Model": "1.0.0",
+          "NETTEST.Repository": "1.0.0"
         },
         "runtime": {
           "NETTEST.Services.dll": {}
@@ -1929,6 +1940,11 @@
       "sha512": ""
     },
     "NETTEST.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NETTEST.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

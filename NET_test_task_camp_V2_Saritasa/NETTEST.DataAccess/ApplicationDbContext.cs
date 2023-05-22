@@ -13,6 +13,8 @@ namespace NETTEST.DataAccess
 {
     public class ApplicationDbContext : IdentityDbContext<User,IdentityRole<Guid>,Guid>
     {
+        //Configure Dbset and Role, User, Entity 
+
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
 

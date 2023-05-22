@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace NETTEST.Model
 {
+    //Take data Login
     public class Login
     {
         [Required]

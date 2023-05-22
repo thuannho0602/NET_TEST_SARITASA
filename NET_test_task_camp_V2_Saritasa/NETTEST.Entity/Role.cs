@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace NETTEST.Entity
 {
+    // Create Table Role
     public class Role:IdentityRole<Guid>
     {
 

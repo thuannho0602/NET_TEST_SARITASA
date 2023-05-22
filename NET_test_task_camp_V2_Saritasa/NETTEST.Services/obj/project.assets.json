@@ -409,6 +409,21 @@
         "runtime": {
           "bin/placeholder/NETTEST.Model.dll": {}
         }
+      },
+      "NETTEST.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "NETTEST.DataAccess": "1.0.0",
+          "NETTEST.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NETTEST.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NETTEST.Repository.dll": {}
+        }
       }
     }
   },
@@ -897,12 +912,18 @@
       "type": "project",
       "path": "../NETTEST.Model/NETTEST.Model.csproj",
       "msbuildProject": "../NETTEST.Model/NETTEST.Model.csproj"
+    },
+    "NETTEST.Repository/1.0.0": {
+      "type": "project",
+      "path": "../NETTEST.Repository/NETTEST.Repository.csproj",
+      "msbuildProject": "../NETTEST.Repository/NETTEST.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "NETTEST.DataAccess >= 1.0.0",
-      "NETTEST.Model >= 1.0.0"
+      "NETTEST.Model >= 1.0.0",
+      "NETTEST.Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -943,6 +964,9 @@
             },
             "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj": {
               "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Model\\NETTEST.Model.csproj"
+            },
+            "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj": {
+              "projectPath": "D:\\NET_TEST_SARITASA\\NET_test_task_camp_V2_Saritasa\\NETTEST.Repository\\NETTEST.Repository.csproj"
             }
           }
         }

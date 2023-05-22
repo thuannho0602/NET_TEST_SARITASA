@@ -36,3 +36,5 @@ D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Services\obj\Debug\n
 D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Services\obj\Debug\net6.0\refint\NETTEST.Services.dll
 D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Services\obj\Debug\net6.0\NETTEST.Services.pdb
 D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Services\obj\Debug\net6.0\ref\NETTEST.Services.dll
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Services\bin\Debug\net6.0\NETTEST.Repository.dll
+D:\NET_TEST_SARITASA\NET_test_task_camp_V2_Saritasa\NETTEST.Services\bin\Debug\net6.0\NETTEST.Repository.pdb
