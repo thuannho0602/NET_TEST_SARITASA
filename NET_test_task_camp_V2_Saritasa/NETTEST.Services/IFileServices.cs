@@ -9,7 +9,8 @@ namespace NETTEST.Services
 {
     public interface IFileServices
     {
-        
+        // Used for class inheritance FileServices
+
         Task<List<FileGetResponse>> GetAll();
         Task<FileGetResponse> GetById(int id);
         Task<FileCreateResponse> CreateFile(FileCreateRequest fileCreateRequest);

@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace NETTEST.Services.Implementations
 {
@@ -20,6 +21,8 @@ namespace NETTEST.Services.Implementations
             _fileRepository = fileRepository;
             _appContext = appContext;
         }
+
+        //Create New Item In File
 
         public async Task<FileCreateResponse> CreateFile(FileCreateRequest fileCreateRequest)
         {
@@ -54,6 +57,7 @@ namespace NETTEST.Services.Implementations
             }
         }
 
+        // Used to delete File ID
         public Task<bool> Delete(int id)
         {
             var file = _fileRepository.FindByCondition(c => c.ID == id).FirstOrDefault();
@@ -64,6 +68,8 @@ namespace NETTEST.Services.Implementations
             }
             return Task.FromResult(false);
         }
+
+       // Get All Item In File
 
         public async Task<List<FileGetResponse>> GetAll()
         {
@@ -80,9 +86,11 @@ namespace NETTEST.Services.Implementations
             return await Task.FromResult(listfile);
         }
 
+
+        //Get the Id in the File's Item
         public async Task<FileGetResponse> GetById(int id)
         {
-            var menu = _fileRepository.FindAll().Select(c => new FileGetResponse
+            var menu = _fileRepository.FindByCondition(c=>c.ID==id).Select(c => new FileGetResponse
             {
                 ID = c.ID,
                 Name=c.Name,
@@ -95,6 +103,7 @@ namespace NETTEST.Services.Implementations
             return await Task.FromResult(menu);
         }
 
+        //Update Id By File
         public async Task<FileUpdateResponse> UpdateFile(int Id,FileUpdateRequest fileUpdateRequest)
         {
             if (Id > 0)
